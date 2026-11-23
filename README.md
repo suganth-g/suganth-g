@@ -62,16 +62,6 @@ Tools:
 </table>
 
 ---
-
-### 🚀 PROJECTS
-
-- **Stream** – Real-Time Collaborative Video Platform
-- **Campus Management System** – Staff Management
-- **UniquePaths** – Algorithm Visualization
-- **ClassNotes** – Collaborative Note-Taking (In Progress)
-
----
-
 ### 🌐 CONNECT WITH ME
 
 - 💻 GitHub: [suganth-g](https://github.com/suganth-g)
