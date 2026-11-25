@@ -1,19 +1,6 @@
 
 <div align="center">
 
-```text
-       .-""""-.
-      /  .--.  \
-     |  /    \  |
-     |  \____/  |
-      \        /
-       '------'
-      /|      |\
-     /_|______|_\
-       /      \
-      /________\
-```
-
 # Hi, I'm Suganth G 👋
 
 **Aspiring Software Engineer | Java | DSA**
