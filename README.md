@@ -64,12 +64,14 @@ Tools:
 ---
 ### 🌐 CONNECT WITH ME
 
-- 💻 GitHub: [suganth-g](https://github.com/suganth-g)
-- 🔗 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
-- 🧠 LeetCode: [My LeetCode](YOUR_LEETCODE_PROFILE_URL)
-
 <div align="center">
 
-**"Code | Learn | Build | Repeat 🚀"**
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/suganth-g)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/foryou/)
+
+</div>
+
+<div align="center">
 
 </div>
